@@ -54,7 +54,8 @@ _________
 
 ### Правила приема работы
 
-![Кеширование в инфоблоках](https://user-images.githubusercontent.com/106957762/172405386-a0ed68f7-f188-4764-8d47-8a77c5188ef5.jpg)
+![Кеширование в инфоблоках](https://user-images.githubusercontent.com/106957762/172462566-ddb50c3e-66b9-4c88-830b-26397c05238c.png)
+
 
 ### Критерии оценки
 
@@ -67,9 +68,10 @@ _________
 |5|Пример 5|`$uniqId = 'my-id'`|
 
 
-![Кеширование в инфоблоках](https://user-images.githubusercontent.com/106957762/172401562-20a63060-1caa-42f3-8589-3f8012702558.jpg)
+![Кеширование в инфоблоках](https://user-images.githubusercontent.com/106957762/172462605-e65878b7-6603-456c-995b-ca81790fdf7c.png)
 
-### Итого
+
+
 
 
 
