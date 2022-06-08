@@ -58,7 +58,7 @@ _________
 
 
 <p align="center" width="100%">
-  <img width="75%" src="img/1.png"> 
+  <img width="75%" src="IMG/1.png"> 
 </p>
 
 __________
