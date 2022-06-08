@@ -56,6 +56,11 @@ _________
 
 ![Кеширование в инфоблоках](https://user-images.githubusercontent.com/106957762/172462566-ddb50c3e-66b9-4c88-830b-26397c05238c.png)
 
+
+<p align="center" width="100%">
+  <img width="75%" src="img/1.png"> 
+</p>
+
 __________
 ### Критерии оценки
 
